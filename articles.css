@@ -4,13 +4,13 @@ body {
 
 article.firstArticle {
   background-color: blue;
-  font-family: ;
-  font-size: ;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
   color: yellow;
-  line-height: ;
-  padding: ;
-  border: 2px dashed orange;
-  border-radius: ;
+  line-height: 1.1em;
+  padding: 2%;
+  border: 25px groove orange;
+  border-radius: 20% 0 20% 0;
 }
 
 article.secondArticle {
