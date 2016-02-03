@@ -1,0 +1,58 @@
+body {
+  background-color: navajowhite;
+}
+
+article.firstArticle {
+  background-color: blue;
+  font-family: ;
+  font-size: ;
+  color: yellow;
+  line-height: ;
+  padding: ;
+  border: 2px dashed orange;
+  border-radius: ;
+}
+
+article.secondArticle {
+  background-color: white;
+  font-family: ;
+  font-size: ;
+  color: ;
+  line-height: ;
+  padding: ;
+  border: ;
+  border-radius: ;
+}
+
+article.thirdArticle {
+  background-color: red;
+  font-family: ;
+  font-size: ;
+  color: ;
+  line-height: ;
+  padding: ;
+  border: ;
+  border-radius: ;
+}
+
+article.fourthArticle {
+  background-color: yellow;
+  font-family: ;
+  font-size: ;
+  color: ;
+  line-height: ;
+  padding: ;
+  border: ;
+  border-radius: ;
+}
+
+article.fifthArticle {
+  background-color: orange;
+  font-family: ;
+  font-size: ;
+  color: ;
+  line-height: ;
+  padding: ;
+  border: ;
+  border-radius: ;
+}
